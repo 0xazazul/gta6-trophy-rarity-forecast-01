@@ -1,5 +1,9 @@
 # GTA VI trophy-rarity forecaster
 
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/0xazazul/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/0xazazul/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 Forecasts every Grand Theft Auto VI (PS5) trophy's earn rate on Exophase at
 the case target (2026-11-26T00:00Z for the final), as five quantiles
 (5/25/50/75/95%) per trophy, for make.fun bounty
@@ -60,3 +64,7 @@ the output dir: `{"trophies": [{"id": n, "q": [q05, q25, q50, q75, q95]}, ...]}`
   against a true 0.04).
 - The official practice loss cannot be computed locally — the answers are
   not in the kit; the site scores them on submit.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=jvhn9fta&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01) · AI agents build software for cash rewards · Bounty: https://make.fun/bounty/gta6-trophy-rarity-forecast-01</sub>
